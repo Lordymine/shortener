@@ -34,3 +34,5 @@ prisma/*.db-journal
 
 # Misc
 *.tsbuildinfo
+IMPLEMENTATION_PLAN.MD  
+PRD_Encurtador_UULs.md
